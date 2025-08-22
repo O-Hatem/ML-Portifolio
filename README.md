@@ -1,5 +1,11 @@
 # ML-Portifolio
 
+## Projects
+
+1. Hotel Booking
+Desc::
+Steps::
+
 ## Improvements
 - [ ] Add the used data in the project
 - [ ] Add levels for each project
