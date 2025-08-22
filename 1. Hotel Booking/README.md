@@ -1,5 +1,7 @@
 # Hotel Booking
-Level: 1
+
+Level: 1.1
+
 tags: data-preprocessing, feature-engineering
 
 Problem Definition:
