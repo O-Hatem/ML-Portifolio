@@ -13,7 +13,6 @@ And, of course, as a portfolio for recrutiers to see how I use my skills and bui
 | Project | Description |
 |--------|-------------|
 | [Hotel Booking](1.%20Hotel%20Booking) | Explore and analyze various angles of hotel booking |
-| [Palm Trees](1.%20Palm%20Trees) | |
 | [Palm Trees](2.%20Palm%20Trees) | |
 | [Education in smllaer English town](3.%20Education%20in%20smllaer%20English%20town) | |
 | [Life Expectancy](4.%20Life%20Expectancy) | |
