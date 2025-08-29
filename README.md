@@ -20,6 +20,6 @@ And, of course, as a portfolio for recrutiers to see how I use my skills and bui
 
 
 
-📫 Feel free to connect with me: [LinkedIn](https://www.linkedin.com/in/o-hatem/) • [Email](mailto:your@email.com)
+📫 Feel free to connect with me: [LinkedIn](https://www.linkedin.com/in/o-hatem/)
   
 
