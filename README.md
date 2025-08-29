@@ -11,11 +11,11 @@ And, of course, as a portfolio for recrutiers to see how I use my skills and bui
 ## 📂 Projects
 
 | Project | Description |
-|--------|-------------|
+|--------|----------|
 | [Hotel Booking](1.%20Hotel%20Booking) | Explore and analyze various angles of hotel booking |
-| [Palm Trees](2.%20Palm%20Trees) | |
-| [Education in smllaer English town](3.%20Education%20in%20smllaer%20English%20town) | |
-| [Life Expectancy](4.%20Life%20Expectancy) | |
+| [Palm Trees](2.%20Palm%20Trees) | This project involves analyzing a dataset related Palm trees species and their properties |
+| [Education in smllaer English town](3.%20Education%20in%20smllaer%20English%20town) | This project involves analyzing a dataset to find answers on why smaller English towns achieve higher grades in school. |
+| [Life Expectancy](4.%20Life%20Expectancy) | Explores trends and patterns in [OurWorldInData's Life Expectancy dataset](https://ourworldindata.org/life-expectancy?insight=life-expectancy-has-increased-at-all-ages#key-insights), with a focus on practicing exploratory data analysis techniques. |
 
 
 
