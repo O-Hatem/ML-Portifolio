@@ -16,6 +16,7 @@ And, of course, as a portfolio for recrutiers to see how I use my skills and bui
 | [Palm Trees](2.%20Palm%20Trees) | This project involves analyzing a dataset related Palm trees species and their properties |
 | [Education in smllaer English town](3.%20Education%20in%20smllaer%20English%20town) | This project involves analyzing a dataset to find answers on why smaller English towns achieve higher grades in school. |
 | [Life Expectancy](4.%20Life%20Expectancy) | Explores trends and patterns in [OurWorldInData's Life Expectancy dataset](https://ourworldindata.org/life-expectancy?insight=life-expectancy-has-increased-at-all-ages#key-insights), with a focus on practicing exploratory data analysis techniques. |
+| [Student Academic Success](5.%20Student%20Academic%20Success) | This project predicts student academic outcomes (dropout, enrolled, graduate) using machine learning to enable early intervention strategies in higher education. |
 
 
 
